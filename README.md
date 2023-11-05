@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
-<!--
-- 🔧 I am passionate about [creating better tools for software developers](https://bostick.github.io/better-tools/).
--->
-
 - 🎵 I am currently working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a parser for .tbt files](https://github.com/bostick/tbt-parser).
+
+- 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
+
+- 💬 I have given [talks](https://bostick.github.io/talks/).
 
 - 📫 How to reach me: **profile name** @gmail.com
