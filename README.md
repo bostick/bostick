@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 - 💬 I have given [talks](https://bostick.github.io/talks/).
 
-- 📫 How to reach me: **profile name** @gmail.com
+- 📫 How to reach me: bostick@gmail.com
