@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📅 I am trying to compete in [Advent of Code 2023](https://adventofcode.com/2023).
+
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
 - 🎵 I am currently working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
