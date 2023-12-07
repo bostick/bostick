@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📅 I am trying to compete in [Advent of Code 2023](https://adventofcode.com/2023).
+- 📅 I am trying to complete [Advent of Code 2023](https://adventofcode.com/2023).
 
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
-- 🎵 I am currently working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
+- 🎵 I am working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a parser for .tbt files](https://github.com/bostick/tbt-parser).
 
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
