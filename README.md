@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 - 📅 I am trying to complete [Advent of Code 2023](https://adventofcode.com/2023).
 
+![50 stars for 2023](50.png){: width="100" }
+
+![You got rank 598](598.png){: width="100" }
+
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
 - 🎵 I am working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
