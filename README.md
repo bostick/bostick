@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📅 I am trying to complete [Advent of Code 2023](https://adventofcode.com/2023).
+- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023)!
 
-![50 stars for 2023](50.png){: width="100" }
+![50 stars for 2023](50.png)
 
-![You got rank 598](598.png){: width="100" }
+![You got rank 598](598.png)
 
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
