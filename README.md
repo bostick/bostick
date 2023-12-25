@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023)!
-
-![50 stars for 2023](50.png)
-
-![You got rank 598](598.png)
+- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25.
 
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
