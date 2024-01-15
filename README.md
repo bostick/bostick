@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25.
+- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
 
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
-- 🎵 I am working on [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
+- 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a parser for .tbt files](https://github.com/bostick/tbt-parser).
+
+- 🤖 I have a lot of experience with [Android](https://bostick.github.io/android/).
 
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
 
