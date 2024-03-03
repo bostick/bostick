@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
 
 - 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
-  [writing a parser for .tbt files](https://github.com/bostick/tbt-parser).
+  [writing a C++ parser for .tbt files](https://github.com/bostick/tbt-parser).
 
 - 🤖 I have a lot of experience with [Android](https://bostick.github.io/projects/android/).
 
