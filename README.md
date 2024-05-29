@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a C++ parser for .tbt files](https://github.com/bostick/tbt-parser).
 
+- ▦ I help with the Android version of [Golly](https://golly.sourceforge.io/).
+
 - 🤖 I have a lot of experience with [Android](https://bostick.github.io/projects/android/).
 
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
