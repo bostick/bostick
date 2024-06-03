@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🧩 Starting January 2024, I am also attempting the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/). So far, I am 4 for 5!
 
-- ⏁ I am an engineer at [ZeroTier](https://www.zerotier.com).
+- ℘ I am an engineer at [Pieces](https://pieces.app).
 
 - 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a C++ parser for .tbt files](https://github.com/bostick/tbt-parser).
