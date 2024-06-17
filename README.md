@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
+- ℘ I am a Senior Staff Infrastructure Engineer at [Pieces](https://pieces.app).
 
 - 🧩 Starting January 2024, I am also attempting the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/). So far, I am 5 for 6!
-
-- ℘ I am an engineer at [Pieces](https://pieces.app).
 
 - 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a C++ parser for .tbt files](https://github.com/bostick/tbt-parser).
 
 - ▦ I help with the Android version of [Golly](https://golly.sourceforge.io/).
 
+- 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
+  
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
 
 - 💬 I have given [talks](https://bostick.github.io/talks/).
