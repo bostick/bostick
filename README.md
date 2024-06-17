@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
 
-- 🧩 Starting January 2024, I am also attempting the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/). So far, I am 4 for 5!
+- 🧩 Starting January 2024, I am also attempting the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/). So far, I am 5 for 6!
 
 - ℘ I am an engineer at [Pieces](https://pieces.app).
 
