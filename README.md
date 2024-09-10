@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ℘ I am a Senior Staff Infrastructure Engineer at [Pieces](https://pieces.app). [Here](https://github.com/brenton-at-pieces) is the GitHub account for my work at Pieces.
-
-- 🧩 Starting January 2024, I am attempting the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/). So far, I am 7 for 8!
-
 - 🎵 I am working on reverse engineering and [describing the TabIt .tbt file format](https://github.com/bostick/tabit-file-format) and
   [writing a C++ parser for .tbt files](https://github.com/bostick/tbt-parser).
 
