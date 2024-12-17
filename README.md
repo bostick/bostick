@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - ▦ I help with the Android version of [Golly](https://golly.sourceforge.io/).
 
+- 📅 I am participating in [Advent of Code 2024](https://adventofcode.com).
+- 
 - 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
   
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
