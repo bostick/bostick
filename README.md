@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - ▦ I help with the Android version of [Golly](https://golly.sourceforge.io/).
 
-- 📅 I am participating in [Advent of Code 2024](https://adventofcode.com).
+- 📅 I completed [Advent of Code 2024](https://adventofcode.com) and got all 50 stars!
   
 - 📅 I completed [Advent of Code 2023](https://adventofcode.com/2023) and got all 50 stars! I even got rank 598 on Day 25 😂.
 
-- 🧩 I attempt the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/).
+- 🧩 I attempt the monthly [Jane Street puzzle](https://www.janestreet.com/puzzles/current-puzzle/) and usually get it.
   
 - 🔧 I created the [CodeTools suite of developer tools for Wolfram Language](https://bostick.github.io/wolfram-language/codetools/).
 
